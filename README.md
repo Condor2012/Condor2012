@@ -16,12 +16,6 @@
 - [otus-rust-advanced](https://github.com/Condor2012/otus-rust-advanced) — примеры кода к продвинутому курсу
 - [otus-dapps-examples](https://github.com/Condor2012/otus-dapps-examples) — примеры смарт-контрактов (Solana, NEAR)
 
-## Проекты
-
-- [thr_pool](https://github.com/Condor2012/thr_pool) — реализация пула потоков и actor-фреймворка на чистом Rust
-- [backends](https://github.com/Condor2012/backends) — примеры бэкендов на actix-web и rocket
-- [async_examples_rdb-main](https://github.com/Condor2012/async_examples_rdb-main) — примеры асинхронной работы с БД
-
 ## Стек
 
 `Rust` · `actix-web` · `rocket` · `tokio` · `async/await` · `многопоточность` · `Actor model` · `Solana` · `Anchor` · `NEAR SDK` · `Web3`
