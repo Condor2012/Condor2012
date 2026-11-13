@@ -8,11 +8,13 @@
 - 🎓 **Преподаватель в онлайн-школе Otus** — веду курсы:
   - «Rust-разработчик. Базовый уровень»
   - «Rust-разработчик. Продвинутый уровень»
+  - «DApps-Development» (занятия по смарт-контрактам на Rust: Solana, NEAR)
 
 ## Материалы к курсам
 
 - [otus-rust-basic](https://github.com/Condor2012/otus-rust-basic) — примеры кода к базовому курсу
 - [otus-rust-advanced](https://github.com/Condor2012/otus-rust-advanced) — примеры кода к продвинутому курсу
+- [otus-dapps-examples](https://github.com/Condor2012/otus-dapps-examples) — примеры смарт-контрактов (Solana, NEAR)
 
 ## Проекты
 
@@ -22,4 +24,4 @@
 
 ## Стек
 
-`Rust` · `actix-web` · `rocket` · `tokio` · `async/await` · `многопоточность` · `Actor model`
+`Rust` · `actix-web` · `rocket` · `tokio` · `async/await` · `многопоточность` · `Actor model` · `Solana` · `Anchor` · `NEAR SDK` · `Web3`
